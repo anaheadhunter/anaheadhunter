@@ -44,7 +44,7 @@ My focus is on recruitment with clarity, speed, and good judgment. I care about 
 
 ---
 
-## ✦ How I work
+## ✦ My values
 
 <table>
   <tr>
