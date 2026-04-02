@@ -6,6 +6,18 @@
 </p>
 
 <p align="center">
+  <a href="./README_ES.md">
+    <img src="https://img.shields.io/badge/Leer%20en-Español-black?style=for-the-badge" alt="Español" />
+  </a>
+  <a href="./README_FR.md">
+    <img src="https://img.shields.io/badge/Lire%20en-Français-black?style=for-the-badge" alt="Français" />
+  </a>
+  <a href="./README_RO.md">
+    <img src="https://img.shields.io/badge/Citește%20în-Română-black?style=for-the-badge" alt="Română" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/ana-radu1493">LinkedIn</a> •
   <a href="mailto:ana@anemonautas.eu?subject=Need talent&body=Hi Ana,I found you through Github, and I may need you because...">Email</a>
 </p>
