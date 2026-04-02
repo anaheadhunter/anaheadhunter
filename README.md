@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/ana-radu1493">LinkedIn</a> •
-  <a href="mailto:ana@anemonautas.eu">Email</a>
+  <a href="mailto:ana@anemonautas.eu?subject=Need talent&body=Hi Ana,I found you through Github, and I may need you because...">Email</a>
 </p>
 
 ---
@@ -81,7 +81,7 @@ My focus is on recruitment with clarity, speed, and good judgment. I care about 
 ## ✦ Contact
 
 <p>
-  <a href="mailto:ana@anemonautas.eu">
+  <a href="mailto:ana@anemonautas.eu?subject=Need talent&body=Hi Ana,I found you through Github, and I may need you because...">
     <img src="https://img.shields.io/badge/Email-Contact-black?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/ana-radu1493">
